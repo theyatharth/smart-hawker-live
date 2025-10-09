@@ -22,7 +22,7 @@ const Navigation = () => {
           className="bg-primary hover:bg-accent text-primary-foreground font-semibold shadow-lg hover:shadow-xl transition-all"
         >
           <Download className="mr-2 h-4 w-4" />
-          App Download Karein
+          Download App
         </Button>
       </div>
     </nav>

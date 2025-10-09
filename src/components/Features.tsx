@@ -4,18 +4,18 @@ import { Card, CardContent } from "@/components/ui/card";
 const features = [
   {
     icon: BookOpen,
-    title: "Digital Hisaab-Kitaab",
-    description: "उधारी का पूरा हिसाब रखें और WhatsApp पर payment reminder भेजें।"
+    title: "Digital Accounting",
+    description: "Keep track of all credit transactions and send payment reminders via WhatsApp."
   },
   {
     icon: Package,
     title: "Stock Management",
-    description: "पता रखें कितना माल बचा है और कब नया order करना है।"
+    description: "Know exactly how much inventory is left and when to order new stock."
   },
   {
     icon: TrendingUp,
     title: "Daily Sales Report",
-    description: "रोज़ की बिक्री और मुनाफा एक click में देखें और अपने business को बढ़ाएं।"
+    description: "View daily sales and profits in one click and grow your business."
   }
 ];
 
@@ -24,10 +24,10 @@ const Features = () => {
     <section className="py-20 px-4 bg-muted/50">
       <div className="container mx-auto">
         <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-center text-foreground mb-4">
-          Business Chalaana Hua Aasaan
+          Running Your Business Made Easy
         </h2>
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-          SmartHawker के साथ अपने business को efficiently चलाएं
+          Manage your business efficiently with SmartHawker
         </p>
         
         <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">

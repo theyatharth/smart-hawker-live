@@ -3,17 +3,17 @@ import { Download, UserPlus, Store } from "lucide-react";
 const steps = [
   {
     icon: Download,
-    title: "App Download Karein",
+    title: "Download the App",
     number: "1"
   },
   {
     icon: UserPlus,
-    title: "Apna Business Register Karein",
+    title: "Register Your Business",
     number: "2"
   },
   {
     icon: Store,
-    title: "Digital Dukaan Chalayein aur Munafa Kamayein",
+    title: "Run Your Digital Store and Earn Profits",
     number: "3"
   }
 ];
@@ -23,10 +23,10 @@ const HowItWorks = () => {
     <section className="py-20 px-4 bg-background">
       <div className="container mx-auto">
         <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-center text-foreground mb-4">
-          Sirf 3 Aasaan Steps Mein Shuru Karein
+          Get Started in Just 3 Easy Steps
         </h2>
         <p className="text-center text-muted-foreground mb-16 max-w-2xl mx-auto">
-          कुछ ही मिनटों में अपना digital business शुरू करें
+          Start your digital business in just a few minutes
         </p>
         
         <div className="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">

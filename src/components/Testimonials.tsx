@@ -5,21 +5,21 @@ import testimonialFemale from "@/assets/testimonial-female.jpg";
 
 const testimonials = [
   {
-    name: "रमेश कुमार",
+    name: "Ramesh Kumar",
     role: "Milk Vendor, Pune",
-    quote: "SmartHawker से उधारी वसूलना बहुत आसान हो गया है। मेरा काफी time बचता है और हिसाब में कोई गलती नहीं होती।",
+    quote: "Collecting credit payments has become so easy with SmartHawker. It saves me a lot of time and there are no mistakes in accounting.",
     image: testimonialMale
   },
   {
-    name: "सुनीता देवी",
+    name: "Sunita Devi",
     role: "Vegetable Seller, Delhi",
-    quote: "अब मुझे हमेशा पता रहता है कि कौनसी सब्ज़ी कितनी बची है। इससे मेरा नुकसान कम हो गया है।",
+    quote: "Now I always know how much of each vegetable is left. This has reduced my losses significantly.",
     image: testimonialFemale
   },
   {
-    name: "राजेश शर्मा",
+    name: "Rajesh Sharma",
     role: "General Store Owner, Mumbai",
-    quote: "मेरे सभी customers का data एक जगह है। अब मैं easily सबको track कर पाता हूं।",
+    quote: "All my customer data is in one place. Now I can easily track everyone.",
     image: testimonialMale
   }
 ];
@@ -29,10 +29,10 @@ const Testimonials = () => {
     <section className="py-20 px-4 bg-muted/50">
       <div className="container mx-auto">
         <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-center text-foreground mb-4">
-          हज़ारों Vendors हम पर भरोसा करते हैं
+          Thousands of Vendors Trust Us
         </h2>
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-          देखें कैसे SmartHawker ने इनके business को बदल दिया
+          See how SmartHawker has transformed their businesses
         </p>
         
         <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">

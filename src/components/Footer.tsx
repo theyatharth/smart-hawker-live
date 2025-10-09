@@ -10,7 +10,7 @@ const Footer = () => {
         </div>
         
         <p className="text-background/80 mb-2">
-          भारत के hawkers और छोटे व्यापारियों का भरोसेमंद साथी
+          The trusted companion for India's hawkers and small traders
         </p>
         
         <p className="text-sm text-background/60">
