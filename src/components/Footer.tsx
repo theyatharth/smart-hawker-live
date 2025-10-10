@@ -1,4 +1,8 @@
+import { useTranslation } from 'react-i18next';
+
 const Footer = () => {
+  const { t } = useTranslation();
+  
   return (
     <footer className="py-8 px-4 bg-foreground text-background">
       <div className="container mx-auto text-center">
@@ -10,11 +14,11 @@ const Footer = () => {
         </div>
         
         <p className="text-background/80 mb-2">
-          The trusted companion for India's hawkers and small traders
+          {t('footer.tagline')}
         </p>
         
         <p className="text-sm text-background/60">
-          © 2025 SmartHawker. All rights reserved.
+          © 2025 SmartHawker. {t('footer.rights')}
         </p>
       </div>
     </footer>

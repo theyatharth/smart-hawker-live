@@ -1,33 +1,36 @@
 import { BookOpen, Package, TrendingUp } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
-
-const features = [
-  {
-    icon: BookOpen,
-    title: "Digital Accounting",
-    description: "Keep track of all credit transactions and send payment reminders via WhatsApp."
-  },
-  {
-    icon: Package,
-    title: "Stock Management",
-    description: "Know exactly how much inventory is left and when to order new stock."
-  },
-  {
-    icon: TrendingUp,
-    title: "Daily Sales Report",
-    description: "View daily sales and profits in one click and grow your business."
-  }
-];
+import { useTranslation } from 'react-i18next';
 
 const Features = () => {
+  const { t } = useTranslation();
+  
+  const features = [
+    {
+      icon: BookOpen,
+      title: t('features.accounting.title'),
+      description: t('features.accounting.description')
+    },
+    {
+      icon: Package,
+      title: t('features.stock.title'),
+      description: t('features.stock.description')
+    },
+    {
+      icon: TrendingUp,
+      title: t('features.sales.title'),
+      description: t('features.sales.description')
+    }
+  ];
+
   return (
     <section className="py-20 px-4 bg-muted/50">
       <div className="container mx-auto">
         <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-center text-foreground mb-4">
-          Running Your Business Made Easy
+          {t('features.title')}
         </h2>
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-          Manage your business efficiently with SmartHawker
+          {t('features.subtitle')}
         </p>
         
         <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">

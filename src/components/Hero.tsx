@@ -1,7 +1,6 @@
 import { Button } from "@/components/ui/button";
 import heroImage from "@/assets/hero-vendor.jpg";
 import { useTranslation } from "react-i18next";
-import { Mic } from "lucide-react";
 
 const Hero = () => {
   const { t } = useTranslation();
@@ -21,18 +20,9 @@ const Hero = () => {
           {t('hero.title')}
         </h1>
         
-        <p className="text-lg md:text-xl lg:text-2xl text-white/90 mb-8 max-w-3xl mx-auto animate-fade-in">
+        <p className="text-lg md:text-xl lg:text-2xl text-white/90 mb-12 max-w-3xl mx-auto animate-fade-in">
           {t('hero.subtitle')}
         </p>
-        
-        <div className="bg-white/10 backdrop-blur-sm border border-white/20 rounded-lg p-6 mb-12 max-w-2xl mx-auto animate-fade-in">
-          <div className="flex items-center justify-center gap-2 mb-3">
-            <Mic className="w-6 h-6 text-primary" />
-            <h3 className="text-xl font-bold text-white">{t('hero.voiceFeature')}</h3>
-          </div>
-          <p className="text-lg text-white/90 mb-2 italic">"{t('hero.voiceExample')}"</p>
-          <p className="text-sm text-white/80">→ {t('hero.voiceExplanation')}</p>
-        </div>
         
         <div id="download-section" className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-fade-in">
           <Button 

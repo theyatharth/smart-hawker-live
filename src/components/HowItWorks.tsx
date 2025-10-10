@@ -1,29 +1,32 @@
 import { Download, UserPlus, Store } from "lucide-react";
-
-const steps = [
-  {
-    icon: Download,
-    title: "Download the App",
-    number: "1"
-  },
-  {
-    icon: UserPlus,
-    title: "Register Your Business",
-    number: "2"
-  },
-  {
-    icon: Store,
-    title: "Run Your Digital Store and Earn Profits",
-    number: "3"
-  }
-];
+import { useTranslation } from 'react-i18next';
 
 const HowItWorks = () => {
+  const { t } = useTranslation();
+  
+  const steps = [
+    {
+      icon: Download,
+      title: t('howItWorks.step1'),
+      number: "1"
+    },
+    {
+      icon: UserPlus,
+      title: t('howItWorks.step2'),
+      number: "2"
+    },
+    {
+      icon: Store,
+      title: t('howItWorks.step3'),
+      number: "3"
+    }
+  ];
+
   return (
     <section className="py-20 px-4 bg-background">
       <div className="container mx-auto">
         <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-center text-foreground mb-4">
-          Get Started in Just 3 Easy Steps
+          {t('howItWorks.title')}
         </h2>
         <p className="text-center text-muted-foreground mb-16 max-w-2xl mx-auto">
           Start your digital business in just a few minutes

@@ -1,38 +1,35 @@
 import { Card, CardContent } from "@/components/ui/card";
 import { Quote } from "lucide-react";
+import { useTranslation } from 'react-i18next';
 import testimonialMale from "@/assets/testimonial-male.jpg";
 import testimonialFemale from "@/assets/testimonial-female.jpg";
 
-const testimonials = [
-  {
-    name: "Ramesh Kumar",
-    role: "Milk Vendor, Pune",
-    quote: "Collecting credit payments has become so easy with SmartHawker. It saves me a lot of time and there are no mistakes in accounting.",
-    image: testimonialMale
-  },
-  {
-    name: "Sunita Devi",
-    role: "Vegetable Seller, Delhi",
-    quote: "Now I always know how much of each vegetable is left. This has reduced my losses significantly.",
-    image: testimonialFemale
-  },
-  {
-    name: "Rajesh Sharma",
-    role: "General Store Owner, Mumbai",
-    quote: "All my customer data is in one place. Now I can easily track everyone.",
-    image: testimonialMale
-  }
-];
-
 const Testimonials = () => {
+  const { t } = useTranslation();
+  
+  const testimonials = [
+    {
+      name: t('testimonials.testimonial1.name'),
+      role: t('testimonials.testimonial1.title'),
+      quote: t('testimonials.testimonial1.quote'),
+      image: testimonialMale
+    },
+    {
+      name: t('testimonials.testimonial2.name'),
+      role: t('testimonials.testimonial2.title'),
+      quote: t('testimonials.testimonial2.quote'),
+      image: testimonialFemale
+    }
+  ];
+
   return (
     <section className="py-20 px-4 bg-muted/50">
       <div className="container mx-auto">
         <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-center text-foreground mb-4">
-          Thousands of Vendors Trust Us
+          {t('testimonials.title')}
         </h2>
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-          See how SmartHawker has transformed their businesses
+          Real feedback from real users
         </p>
         
         <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
