@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "downloadApp": "Télécharger l'App"
+  },
+  "hero": {
+    "title": "SmartHawker: Mettez Votre Entreprise en Ligne, Augmentez Vos Profits!",
+    "subtitle": "L'application la plus facile pour des millions de vendeurs ambulants et petits commerçants indiens. Comptabilité, gestion des stocks et gestion de la clientèle, tout en un seul endroit.",
+    "downloadPlayStore": "Télécharger sur Google Play",
+    "downloadAppStore": "Télécharger sur l'App Store",
+    "voiceFeature": "Ajouter des ventes par commande vocale",
+    "voiceExample": "\"J'ai donné 2 kilos de lait à Ramesh\"",
+    "voiceExplanation": "Le lait (produit) sera ajouté à Ramesh (client) en quantité (2 kilos)"
+  },
+  "features": {
+    "title": "Gérer Votre Entreprise Devient Facile",
+    "subtitle": "Gérez votre entreprise efficacement avec SmartHawker",
+    "accounting": {
+      "title": "Comptabilité Numérique",
+      "description": "Suivez toutes les transactions de crédit et envoyez des rappels de paiement via WhatsApp."
+    },
+    "stock": {
+      "title": "Gestion des Stocks",
+      "description": "Sachez exactement combien d'inventaire reste et quand commander de nouveaux stocks."
+    },
+    "sales": {
+      "title": "Rapport de Ventes Quotidiennes",
+      "description": "Visualisez les ventes et les bénéfices quotidiens en un clic et développez votre entreprise."
+    }
+  },
+  "howItWorks": {
+    "title": "Commencez en Seulement 3 Étapes Faciles",
+    "step1": "Téléchargez l'Application",
+    "step2": "Enregistrez Votre Entreprise",
+    "step3": "Gérez Votre Boutique Numérique et Gagnez des Profits"
+  },
+  "testimonials": {
+    "title": "Des Milliers de Vendeurs Nous Font Confiance",
+    "testimonial1": {
+      "name": "Ramesh Kumar",
+      "title": "Vendeur de Lait, Pune",
+      "quote": "SmartHawker a rendu la collecte des paiements beaucoup plus facile. Cela me fait gagner beaucoup de temps et il n'y a pas d'erreurs dans mes comptes."
+    },
+    "testimonial2": {
+      "name": "Sunita Devi",
+      "title": "Vendeuse de Légumes, Delhi",
+      "quote": "Maintenant, je sais toujours combien de chaque légume il me reste. Cela a considérablement réduit mes pertes."
+    }
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "q1": {
+      "question": "Cette application est-elle difficile à utiliser?",
+      "answer": "Non! Cette application est spécifiquement conçue pour les vendeurs comme vous. Elle est très facile à utiliser."
+    },
+    "q2": {
+      "question": "Quel est le coût? Y a-t-il des frais cachés?",
+      "answer": "La plupart des fonctionnalités essentielles de SmartHawker sont entièrement GRATUITES. Nous avons également un plan Premium avec des fonctionnalités supplémentaires à un coût très bas. Il n'y a pas de frais cachés."
+    },
+    "q3": {
+      "question": "Les données de mon entreprise sont-elles sécurisées dans cette application?",
+      "answer": "Oui, absolument. Toutes les données de votre entreprise sont sécurisées à 100% et ne peuvent être vues par personne d'autre que vous."
+    }
+  },
+  "finalCTA": {
+    "title": "Alors Pourquoi Attendre? Numérisez Votre Entreprise Aujourd'hui!",
+    "subtitle": "Téléchargez SmartHawker et amenez votre entreprise au niveau supérieur.",
+    "downloadPlayStore": "Télécharger sur Google Play",
+    "downloadAppStore": "Télécharger sur l'App Store"
+  },
+  "footer": {
+    "tagline": "Votre Partenaire Commercial Numérique",
+    "rights": "Tous droits réservés."
+  }
+}

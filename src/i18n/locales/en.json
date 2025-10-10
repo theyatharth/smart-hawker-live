@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "downloadApp": "Download App"
+  },
+  "hero": {
+    "title": "SmartHawker: Take Your Business Online, Increase Your Profits!",
+    "subtitle": "The easiest app for millions of Indian hawkers and small shopkeepers. Accounting, stock management, and customer management, all in one place.",
+    "downloadPlayStore": "Download from Google Play",
+    "downloadAppStore": "Download from App Store",
+    "voiceFeature": "Add sales by voice command",
+    "voiceExample": "\"Ramesh ko 2 kilo dudh diya\"",
+    "voiceExplanation": "Milk (product) will be added to Ramesh (customer) in quantity (2 kilo)"
+  },
+  "features": {
+    "title": "Running Your Business Made Easy",
+    "subtitle": "Manage your business efficiently with SmartHawker",
+    "accounting": {
+      "title": "Digital Accounting",
+      "description": "Keep track of all credit transactions and send payment reminders via WhatsApp."
+    },
+    "stock": {
+      "title": "Stock Management",
+      "description": "Know exactly how much inventory is left and when to order new stock."
+    },
+    "sales": {
+      "title": "Daily Sales Report",
+      "description": "View daily sales and profits in one click and grow your business."
+    }
+  },
+  "howItWorks": {
+    "title": "Start in Just 3 Easy Steps",
+    "step1": "Download the App",
+    "step2": "Register Your Business",
+    "step3": "Run Your Digital Shop and Earn Profits"
+  },
+  "testimonials": {
+    "title": "Thousands of Vendors Trust Us",
+    "testimonial1": {
+      "name": "Ramesh Kumar",
+      "title": "Milk Vendor, Pune",
+      "quote": "SmartHawker has made collecting payments so much easier. It saves me a lot of time and there are no mistakes in my accounts."
+    },
+    "testimonial2": {
+      "name": "Sunita Devi",
+      "title": "Vegetable Seller, Delhi",
+      "quote": "Now I always know how much of each vegetable I have left. This has reduced my losses significantly."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": {
+      "question": "Is this app difficult to use?",
+      "answer": "No! This app is specifically designed for vendors like you. It is very easy to use."
+    },
+    "q2": {
+      "question": "What does it cost? Are there any hidden charges?",
+      "answer": "Most essential features of SmartHawker are completely FREE. We also have a Premium plan with extra features at a very low cost. There are no hidden charges."
+    },
+    "q3": {
+      "question": "Is my business data safe in this app?",
+      "answer": "Yes, absolutely. All your business data is 100% secure and cannot be seen by anyone except you."
+    }
+  },
+  "finalCTA": {
+    "title": "So Why Wait? Make Your Business Digital Today!",
+    "subtitle": "Download SmartHawker and take your business to the next level.",
+    "downloadPlayStore": "Download from Google Play",
+    "downloadAppStore": "Download from App Store"
+  },
+  "footer": {
+    "tagline": "Your Digital Business Partner",
+    "rights": "All rights reserved."
+  }
+}

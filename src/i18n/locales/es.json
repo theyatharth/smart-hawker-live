@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "downloadApp": "Descargar App"
+  },
+  "hero": {
+    "title": "SmartHawker: ¡Lleva Tu Negocio en Línea, Aumenta Tus Ganancias!",
+    "subtitle": "La aplicación más fácil para millones de vendedores ambulantes y pequeños comerciantes indios. Contabilidad, gestión de inventario y gestión de clientes, todo en un solo lugar.",
+    "downloadPlayStore": "Descargar de Google Play",
+    "downloadAppStore": "Descargar de App Store",
+    "voiceFeature": "Agregar ventas por comando de voz",
+    "voiceExample": "\"Le di 2 kilos de leche a Ramesh\"",
+    "voiceExplanation": "Leche (producto) se agregará a Ramesh (cliente) en cantidad (2 kilos)"
+  },
+  "features": {
+    "title": "Administrar Tu Negocio Es Más Fácil",
+    "subtitle": "Gestiona tu negocio eficientemente con SmartHawker",
+    "accounting": {
+      "title": "Contabilidad Digital",
+      "description": "Realiza un seguimiento de todas las transacciones de crédito y envía recordatorios de pago por WhatsApp."
+    },
+    "stock": {
+      "title": "Gestión de Inventario",
+      "description": "Sabe exactamente cuánto inventario queda y cuándo ordenar nuevo stock."
+    },
+    "sales": {
+      "title": "Informe de Ventas Diarias",
+      "description": "Ver ventas y ganancias diarias en un clic y hacer crecer tu negocio."
+    }
+  },
+  "howItWorks": {
+    "title": "Comienza en Solo 3 Pasos Fáciles",
+    "step1": "Descarga la Aplicación",
+    "step2": "Registra Tu Negocio",
+    "step3": "Administra Tu Tienda Digital y Gana Beneficios"
+  },
+  "testimonials": {
+    "title": "Miles de Vendedores Confían en Nosotros",
+    "testimonial1": {
+      "name": "Ramesh Kumar",
+      "title": "Vendedor de Leche, Pune",
+      "quote": "SmartHawker ha facilitado mucho la recolección de pagos. Me ahorra mucho tiempo y no hay errores en mis cuentas."
+    },
+    "testimonial2": {
+      "name": "Sunita Devi",
+      "title": "Vendedora de Verduras, Delhi",
+      "quote": "Ahora siempre sé cuánto de cada verdura me queda. Esto ha reducido significativamente mis pérdidas."
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "q1": {
+      "question": "¿Es difícil usar esta aplicación?",
+      "answer": "¡No! Esta aplicación está específicamente diseñada para vendedores como tú. Es muy fácil de usar."
+    },
+    "q2": {
+      "question": "¿Cuánto cuesta? ¿Hay cargos ocultos?",
+      "answer": "La mayoría de las características esenciales de SmartHawker son completamente GRATIS. También tenemos un plan Premium con características adicionales a un costo muy bajo. No hay cargos ocultos."
+    },
+    "q3": {
+      "question": "¿Están seguros los datos de mi negocio en esta aplicación?",
+      "answer": "Sí, absolutamente. Todos los datos de tu negocio están 100% seguros y nadie más que tú puede verlos."
+    }
+  },
+  "finalCTA": {
+    "title": "¿Entonces Por Qué Esperar? ¡Haz Tu Negocio Digital Hoy!",
+    "subtitle": "Descarga SmartHawker y lleva tu negocio al siguiente nivel.",
+    "downloadPlayStore": "Descargar de Google Play",
+    "downloadAppStore": "Descargar de App Store"
+  },
+  "footer": {
+    "tagline": "Tu Socio Comercial Digital",
+    "rights": "Todos los derechos reservados."
+  }
+}

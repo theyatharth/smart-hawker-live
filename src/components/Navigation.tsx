@@ -1,7 +1,11 @@
 import { Button } from "@/components/ui/button";
 import { Download } from "lucide-react";
+import { useTranslation } from "react-i18next";
+import LanguageSwitcher from "./LanguageSwitcher";
 
 const Navigation = () => {
+  const { t } = useTranslation();
+  
   const scrollToDownload = () => {
     const downloadSection = document.getElementById('download-section');
     downloadSection?.scrollIntoView({ behavior: 'smooth' });
@@ -17,13 +21,16 @@ const Navigation = () => {
           <span className="text-xl font-bold text-foreground">SmartHawker</span>
         </div>
         
-        <Button 
-          onClick={scrollToDownload}
-          className="bg-primary hover:bg-accent text-primary-foreground font-semibold shadow-lg hover:shadow-xl transition-all"
-        >
-          <Download className="mr-2 h-4 w-4" />
-          Download App
-        </Button>
+        <div className="flex items-center gap-2">
+          <LanguageSwitcher />
+          <Button 
+            onClick={scrollToDownload}
+            className="bg-primary hover:bg-accent text-primary-foreground font-semibold shadow-lg hover:shadow-xl transition-all"
+          >
+            <Download className="mr-2 h-4 w-4" />
+            {t('nav.downloadApp')}
+          </Button>
+        </div>
       </div>
     </nav>
   );

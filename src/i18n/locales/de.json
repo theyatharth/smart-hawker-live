@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "downloadApp": "App Herunterladen"
+  },
+  "hero": {
+    "title": "SmartHawker: Bringen Sie Ihr Geschäft Online, Steigern Sie Ihre Gewinne!",
+    "subtitle": "Die einfachste App für Millionen indischer Straßenhändler und kleiner Ladenbesitzer. Buchhaltung, Lagerverwaltung und Kundenverwaltung, alles an einem Ort.",
+    "downloadPlayStore": "Von Google Play Herunterladen",
+    "downloadAppStore": "Vom App Store Herunterladen",
+    "voiceFeature": "Verkäufe per Sprachbefehl hinzufügen",
+    "voiceExample": "\"Ich habe Ramesh 2 Kilo Milch gegeben\"",
+    "voiceExplanation": "Milch (Produkt) wird Ramesh (Kunde) in Menge (2 Kilo) hinzugefügt"
+  },
+  "features": {
+    "title": "Ihr Geschäft Einfach Führen",
+    "subtitle": "Verwalten Sie Ihr Geschäft effizient mit SmartHawker",
+    "accounting": {
+      "title": "Digitale Buchhaltung",
+      "description": "Verfolgen Sie alle Kredittransaktionen und senden Sie Zahlungserinnerungen über WhatsApp."
+    },
+    "stock": {
+      "title": "Lagerverwaltung",
+      "description": "Wissen Sie genau, wie viel Inventar übrig ist und wann Sie neuen Bestand bestellen müssen."
+    },
+    "sales": {
+      "title": "Täglicher Verkaufsbericht",
+      "description": "Sehen Sie tägliche Verkäufe und Gewinne mit einem Klick und lassen Sie Ihr Geschäft wachsen."
+    }
+  },
+  "howItWorks": {
+    "title": "Starten Sie in Nur 3 Einfachen Schritten",
+    "step1": "Laden Sie die App Herunter",
+    "step2": "Registrieren Sie Ihr Geschäft",
+    "step3": "Führen Sie Ihren Digitalen Shop und Verdienen Sie Gewinne"
+  },
+  "testimonials": {
+    "title": "Tausende Verkäufer Vertrauen Uns",
+    "testimonial1": {
+      "name": "Ramesh Kumar",
+      "title": "Milchverkäufer, Pune",
+      "quote": "SmartHawker hat das Sammeln von Zahlungen viel einfacher gemacht. Es spart mir viel Zeit und es gibt keine Fehler in meinen Konten."
+    },
+    "testimonial2": {
+      "name": "Sunita Devi",
+      "title": "Gemüseverkäuferin, Delhi",
+      "quote": "Jetzt weiß ich immer, wie viel von jedem Gemüse ich noch habe. Dies hat meine Verluste erheblich reduziert."
+    }
+  },
+  "faq": {
+    "title": "Häufig Gestellte Fragen",
+    "q1": {
+      "question": "Ist diese App schwierig zu bedienen?",
+      "answer": "Nein! Diese App wurde speziell für Verkäufer wie Sie entwickelt. Sie ist sehr einfach zu bedienen."
+    },
+    "q2": {
+      "question": "Was kostet es? Gibt es versteckte Kosten?",
+      "answer": "Die meisten wesentlichen Funktionen von SmartHawker sind völlig KOSTENLOS. Wir haben auch einen Premium-Plan mit zusätzlichen Funktionen zu sehr niedrigen Kosten. Es gibt keine versteckten Kosten."
+    },
+    "q3": {
+      "question": "Sind meine Geschäftsdaten in dieser App sicher?",
+      "answer": "Ja, absolut. Alle Ihre Geschäftsdaten sind zu 100% sicher und können von niemandem außer Ihnen eingesehen werden."
+    }
+  },
+  "finalCTA": {
+    "title": "Also Warum Warten? Machen Sie Ihr Geschäft Heute Digital!",
+    "subtitle": "Laden Sie SmartHawker herunter und bringen Sie Ihr Geschäft auf die nächste Stufe.",
+    "downloadPlayStore": "Von Google Play Herunterladen",
+    "downloadAppStore": "Vom App Store Herunterladen"
+  },
+  "footer": {
+    "tagline": "Ihr Digitaler Geschäftspartner",
+    "rights": "Alle Rechte vorbehalten."
+  }
+}
