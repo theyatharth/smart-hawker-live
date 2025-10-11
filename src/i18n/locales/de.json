@@ -14,17 +14,29 @@
   "features": {
     "title": "Ihr Geschäft Einfach Führen",
     "subtitle": "Verwalten Sie Ihr Geschäft effizient mit SmartHawker",
-    "accounting": {
-      "title": "Digitale Buchhaltung",
-      "description": "Verfolgen Sie alle Kredittransaktionen und senden Sie Zahlungserinnerungen über WhatsApp."
+    "voice": {
+      "title": "Sprachgesteuerte Verkaufseingabe",
+      "description": "Hören Sie auf zu tippen, fangen Sie an zu sprechen. Sagen Sie einfach \"Ich habe Ramesh 2 Kilo Milch gegeben,\" und SmartHawker erfasst den Verkauf sofort für Sie."
     },
-    "stock": {
-      "title": "Lagerverwaltung",
-      "description": "Wissen Sie genau, wie viel Inventar übrig ist und wann Sie neuen Bestand bestellen müssen."
+    "invoice": {
+      "title": "Rechnungen Erstellen und Versenden",
+      "description": "Erstellen Sie in Sekunden professionelle Rechnungen und senden Sie sie direkt an Ihre Kunden über WhatsApp, um schneller bezahlt zu werden."
     },
-    "sales": {
-      "title": "Täglicher Verkaufsbericht",
-      "description": "Sehen Sie tägliche Verkäufe und Gewinne mit einem Klick und lassen Sie Ihr Geschäft wachsen."
+    "credit": {
+      "title": "Digitales Kreditbuch (Udhaar)",
+      "description": "Verfolgen Sie alle Kundenkredite einfach an einem sicheren Ort. Sehen Sie auf einen Blick, wer Ihnen Geld schuldet und regeln Sie Konten mit einem Tippen."
+    },
+    "inventory": {
+      "title": "Intelligente Lagerverwaltung",
+      "description": "Wissen Sie immer, was auf Lager ist. Die App aktualisiert automatisch Ihr Inventar bei jedem Verkauf und hilft Ihnen, Verschwendung zu reduzieren und zu wissen, wann Sie nachbestellen müssen."
+    },
+    "reports": {
+      "title": "Tägliche Geschäftsberichte",
+      "description": "Erhalten Sie sofortige, leicht verständliche Berichte über Ihre täglichen Verkäufe, Gewinne und ausstehenden Zahlungen, um die Leistung Ihres Unternehmens zu verstehen."
+    },
+    "multilingual": {
+      "title": "Mehrsprachige Unterstützung",
+      "description": "Führen Sie Ihr Geschäft in der Sprache, mit der Sie sich am wohlsten fühlen. Die App unterstützt Englisch, Hindi und viele andere regionale Sprachen."
     }
   },
   "howItWorks": {

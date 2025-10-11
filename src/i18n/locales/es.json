@@ -14,17 +14,29 @@
   "features": {
     "title": "Administrar Tu Negocio Es Más Fácil",
     "subtitle": "Gestiona tu negocio eficientemente con SmartHawker",
-    "accounting": {
-      "title": "Contabilidad Digital",
-      "description": "Realiza un seguimiento de todas las transacciones de crédito y envía recordatorios de pago por WhatsApp."
+    "voice": {
+      "title": "Entrada de Ventas por Voz",
+      "description": "Deja de escribir, empieza a hablar. Solo di \"Le di 2 kilos de leche a Ramesh,\" y SmartHawker registra instantáneamente la venta para ti."
     },
-    "stock": {
-      "title": "Gestión de Inventario",
-      "description": "Sabe exactamente cuánto inventario queda y cuándo ordenar nuevo stock."
+    "invoice": {
+      "title": "Generar y Enviar Facturas",
+      "description": "Crea facturas profesionales en segundos y envíalas directamente a tus clientes en WhatsApp, asegurando que te paguen más rápido."
     },
-    "sales": {
-      "title": "Informe de Ventas Diarias",
-      "description": "Ver ventas y ganancias diarias en un clic y hacer crecer tu negocio."
+    "credit": {
+      "title": "Libro de Crédito Digital (Udhaar)",
+      "description": "Rastrea fácilmente todo el crédito del cliente en un lugar seguro. Ve quién te debe dinero de un vistazo y liquida cuentas con un solo toque."
+    },
+    "inventory": {
+      "title": "Gestión de Inventario Inteligente",
+      "description": "Siempre sabrás qué hay en stock. La aplicación actualiza automáticamente tu inventario con cada venta, ayudándote a reducir desperdicios y saber cuándo reordenar."
+    },
+    "reports": {
+      "title": "Informes de Negocio Diarios",
+      "description": "Obtén informes instantáneos y fáciles de leer sobre tus ventas diarias, ganancias y pagos pendientes para entender el rendimiento de tu negocio."
+    },
+    "multilingual": {
+      "title": "Soporte Multilingüe",
+      "description": "Administra tu negocio en el idioma con el que te sientas más cómodo. La aplicación admite inglés, hindi y muchos otros idiomas regionales."
     }
   },
   "howItWorks": {

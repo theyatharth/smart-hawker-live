@@ -1,25 +1,42 @@
-import { BookOpen, Package, TrendingUp } from "lucide-react";
+import { Mic, FileText, BookOpen, Package, BarChart3, Globe } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
+import { Carousel, CarouselContent, CarouselItem } from "@/components/ui/carousel";
 import { useTranslation } from 'react-i18next';
+import Autoplay from "embla-carousel-autoplay";
 
 const Features = () => {
   const { t } = useTranslation();
   
   const features = [
     {
+      icon: Mic,
+      title: t('features.voice.title'),
+      description: t('features.voice.description')
+    },
+    {
+      icon: FileText,
+      title: t('features.invoice.title'),
+      description: t('features.invoice.description')
+    },
+    {
       icon: BookOpen,
-      title: t('features.accounting.title'),
-      description: t('features.accounting.description')
+      title: t('features.credit.title'),
+      description: t('features.credit.description')
     },
     {
       icon: Package,
-      title: t('features.stock.title'),
-      description: t('features.stock.description')
+      title: t('features.inventory.title'),
+      description: t('features.inventory.description')
     },
     {
-      icon: TrendingUp,
-      title: t('features.sales.title'),
-      description: t('features.sales.description')
+      icon: BarChart3,
+      title: t('features.reports.title'),
+      description: t('features.reports.description')
+    },
+    {
+      icon: Globe,
+      title: t('features.multilingual.title'),
+      description: t('features.multilingual.description')
     }
   ];
 
@@ -33,26 +50,39 @@ const Features = () => {
           {t('features.subtitle')}
         </p>
         
-        <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
-          {features.map((feature, index) => (
-            <Card 
-              key={index} 
-              className="border-0 shadow-lg hover:shadow-xl transition-all hover:-translate-y-1 bg-card"
-            >
-              <CardContent className="p-8 text-center">
-                <div className="w-16 h-16 mx-auto mb-6 rounded-full bg-gradient-to-br from-primary to-accent flex items-center justify-center">
-                  <feature.icon className="w-8 h-8 text-primary-foreground" />
-                </div>
-                <h3 className="text-xl font-bold text-foreground mb-3">
-                  {feature.title}
-                </h3>
-                <p className="text-muted-foreground leading-relaxed">
-                  {feature.description}
-                </p>
-              </CardContent>
-            </Card>
-          ))}
-        </div>
+        <Carousel
+          opts={{
+            align: "start",
+            loop: true,
+          }}
+          plugins={[
+            Autoplay({
+              delay: 3000,
+              stopOnInteraction: true,
+            }),
+          ]}
+          className="w-full max-w-6xl mx-auto"
+        >
+          <CarouselContent className="-ml-4">
+            {features.map((feature, index) => (
+              <CarouselItem key={index} className="pl-4 md:basis-1/2 lg:basis-1/3">
+                <Card className="border-0 shadow-lg hover:shadow-xl transition-all hover:-translate-y-1 bg-card h-full">
+                  <CardContent className="p-8 text-center">
+                    <div className="w-16 h-16 mx-auto mb-6 rounded-full bg-gradient-to-br from-primary to-accent flex items-center justify-center">
+                      <feature.icon className="w-8 h-8 text-primary-foreground" />
+                    </div>
+                    <h3 className="text-xl font-bold text-foreground mb-3">
+                      {feature.title}
+                    </h3>
+                    <p className="text-muted-foreground leading-relaxed">
+                      {feature.description}
+                    </p>
+                  </CardContent>
+                </Card>
+              </CarouselItem>
+            ))}
+          </CarouselContent>
+        </Carousel>
       </div>
     </section>
   );

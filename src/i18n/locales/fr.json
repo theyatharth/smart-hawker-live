@@ -14,17 +14,29 @@
   "features": {
     "title": "Gérer Votre Entreprise Devient Facile",
     "subtitle": "Gérez votre entreprise efficacement avec SmartHawker",
-    "accounting": {
-      "title": "Comptabilité Numérique",
-      "description": "Suivez toutes les transactions de crédit et envoyez des rappels de paiement via WhatsApp."
+    "voice": {
+      "title": "Saisie de Ventes Vocale",
+      "description": "Arrêtez de taper, commencez à parler. Dites simplement \"J'ai donné 2 kilos de lait à Ramesh,\" et SmartHawker enregistre instantanément la vente pour vous."
     },
-    "stock": {
-      "title": "Gestion des Stocks",
-      "description": "Sachez exactement combien d'inventaire reste et quand commander de nouveaux stocks."
+    "invoice": {
+      "title": "Générer et Envoyer des Factures",
+      "description": "Créez des factures professionnelles en quelques secondes et envoyez-les directement à vos clients sur WhatsApp, pour être payé plus rapidement."
     },
-    "sales": {
-      "title": "Rapport de Ventes Quotidiennes",
-      "description": "Visualisez les ventes et les bénéfices quotidiens en un clic et développez votre entreprise."
+    "credit": {
+      "title": "Registre de Crédit Numérique (Udhaar)",
+      "description": "Suivez facilement tout le crédit client en un seul endroit sécurisé. Voyez qui vous doit de l'argent d'un coup d'œil et réglez les comptes d'un simple toucher."
+    },
+    "inventory": {
+      "title": "Gestion Intelligente des Stocks",
+      "description": "Sachez toujours ce qui est en stock. L'application met automatiquement à jour votre inventaire à chaque vente, vous aidant à réduire les déchets et à savoir quand réapprovisionner."
+    },
+    "reports": {
+      "title": "Rapports d'Affaires Quotidiens",
+      "description": "Obtenez des rapports instantanés et faciles à lire sur vos ventes quotidiennes, vos bénéfices et vos paiements en attente pour comprendre les performances de votre entreprise."
+    },
+    "multilingual": {
+      "title": "Support Multilingue",
+      "description": "Gérez votre entreprise dans la langue avec laquelle vous êtes le plus à l'aise. L'application prend en charge l'anglais, l'hindi et de nombreuses autres langues régionales."
     }
   },
   "howItWorks": {

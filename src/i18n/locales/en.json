@@ -12,19 +12,31 @@
     "voiceExplanation": "Milk (product) will be added to Ramesh (customer) in quantity (2 kilo)"
   },
   "features": {
-    "title": "Running Your Business Made Easy",
-    "subtitle": "Manage your business efficiently with SmartHawker",
-    "accounting": {
-      "title": "Digital Accounting",
-      "description": "Keep track of all credit transactions and send payment reminders via WhatsApp."
+    "title": "Everything You Need to Grow Your Business",
+    "subtitle": "Simple tools to help you manage your daily operations",
+    "voice": {
+      "title": "Voice-Enabled Sales Entry",
+      "description": "Stop typing, start talking. Just say \"Ramesh ko 2 kilo doodh diya,\" and SmartHawker instantly records the sale for you."
     },
-    "stock": {
-      "title": "Stock Management",
-      "description": "Know exactly how much inventory is left and when to order new stock."
+    "invoice": {
+      "title": "Generate & Send Invoices",
+      "description": "Create professional invoices in seconds and send them directly to your customers on WhatsApp, ensuring you get paid faster."
     },
-    "sales": {
-      "title": "Daily Sales Report",
-      "description": "View daily sales and profits in one click and grow your business."
+    "credit": {
+      "title": "Digital Credit Ledger (Udhaar)",
+      "description": "Easily track all customer credit in one secure place. See who owes you money at a glance and settle accounts with a single tap."
+    },
+    "inventory": {
+      "title": "Smart Inventory Management",
+      "description": "Always know what's in stock. The app automatically updates your inventory with each sale, helping you reduce waste and know when to reorder."
+    },
+    "reports": {
+      "title": "Daily Business Reports",
+      "description": "Get instant, easy-to-read reports on your daily sales, profits, and pending payments to understand your business performance."
+    },
+    "multilingual": {
+      "title": "Multilingual Support",
+      "description": "Run your business in the language you are most comfortable with. The app supports English, Hindi, and many other regional languages."
     }
   },
   "howItWorks": {
