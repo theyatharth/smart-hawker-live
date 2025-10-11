@@ -17,7 +17,7 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 0 0% 20%;
 
-    --primary: 25 95% 55%;
+    --primary: 200 80% 60%;
     --primary-foreground: 0 0% 100%;
 
     --secondary: 142 70% 45%;
@@ -26,7 +26,7 @@ All colors MUST be HSL.
     --muted: 0 0% 96%;
     --muted-foreground: 0 0% 45%;
 
-    --accent: 25 100% 65%;
+    --accent: 210 85% 70%;
     --accent-foreground: 0 0% 20%;
 
     --destructive: 0 84.2% 60.2%;
@@ -34,12 +34,12 @@ All colors MUST be HSL.
 
     --border: 0 0% 90%;
     --input: 0 0% 90%;
-    --ring: 25 95% 55%;
+    --ring: 200 80% 60%;
 
     --radius: 0.75rem;
     
     /* Custom tokens for SmartHawker */
-    --hero-gradient: linear-gradient(135deg, hsl(25, 95%, 55%) 0%, hsl(25, 100%, 65%) 100%);
+    --hero-gradient: linear-gradient(135deg, hsl(200, 80%, 60%) 0%, hsl(210, 85%, 70%) 100%);
     --success-gradient: linear-gradient(135deg, hsl(142, 70%, 45%) 0%, hsl(142, 80%, 55%) 100%);
     --card-shadow: 0 4px 6px -1px hsl(0 0% 0% / 0.1), 0 2px 4px -2px hsl(0 0% 0% / 0.1);
     --card-shadow-lg: 0 10px 15px -3px hsl(0 0% 0% / 0.1), 0 4px 6px -4px hsl(0 0% 0% / 0.1);
