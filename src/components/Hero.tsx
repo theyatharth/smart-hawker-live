@@ -8,7 +8,7 @@ const Hero = () => {
   return (
     <section className="relative min-h-screen flex items-center pt-20 pb-16 px-4 bg-gray-50">
       <div className="container mx-auto max-w-7xl">
-        <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center">
+        <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
           {/* Left Column - Text Content */}
           <div className="space-y-6 lg:space-y-8 text-center lg:text-left animate-fade-in flex flex-col justify-center">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight" style={{ fontFamily: 'Inter, system-ui, sans-serif' }}>
@@ -44,11 +44,11 @@ const Hero = () => {
           </div>
           
           {/* Right Column - Illustration */}
-          <div className="relative animate-fade-in flex items-center justify-center">
+          <div className="relative animate-fade-in flex items-center justify-center lg:justify-end">
             <img 
               src={heroIllustration} 
               alt="Happy Indian street vendor managing business on smartphone"
-              className="w-full h-auto max-w-lg"
+              className="w-full h-auto max-w-md lg:max-w-lg"
             />
           </div>
         </div>
