@@ -1,17 +1,17 @@
 import { Button } from "@/components/ui/button";
-import heroImage from "@/assets/hero-vendor.jpg";
+import heroIllustration from "@/assets/hero-illustration.png";
 import { useTranslation } from "react-i18next";
 
 const Hero = () => {
   const { t } = useTranslation();
   
   return (
-    <section className="relative min-h-screen flex items-center pt-20 pb-16 px-4 bg-background">
-      <div className="container mx-auto">
+    <section className="relative min-h-screen flex items-center pt-20 pb-16 px-4 bg-gray-50">
+      <div className="container mx-auto max-w-7xl">
         <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center">
           {/* Left Column - Text Content */}
-          <div className="space-y-6 lg:space-y-8 text-center lg:text-left animate-fade-in">
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight">
+          <div className="space-y-6 lg:space-y-8 text-center lg:text-left animate-fade-in flex flex-col justify-center">
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight" style={{ fontFamily: 'Inter, system-ui, sans-serif' }}>
               {t('hero.title')}
             </h1>
             
@@ -43,15 +43,13 @@ const Hero = () => {
             </div>
           </div>
           
-          {/* Right Column - Image */}
-          <div className="relative animate-fade-in">
-            <div className="relative rounded-2xl overflow-hidden shadow-2xl">
-              <img 
-                src={heroImage} 
-                alt="Smiling Indian milk vendor with smartphone and milk cans"
-                className="w-full h-auto object-cover"
-              />
-            </div>
+          {/* Right Column - Illustration */}
+          <div className="relative animate-fade-in flex items-center justify-center">
+            <img 
+              src={heroIllustration} 
+              alt="Happy Indian street vendor managing business on smartphone"
+              className="w-full h-auto max-w-lg"
+            />
           </div>
         </div>
       </div>

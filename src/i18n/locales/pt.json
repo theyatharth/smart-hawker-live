@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "downloadApp": "Baixar App"
+  },
+  "hero": {
+    "title": "SmartHawker: Leve Seu Negócio para o Online, Aumente Seus Lucros!",
+    "subtitle": "O aplicativo mais fácil para milhões de vendedores ambulantes e pequenos lojistas indianos. Contabilidade, gestão de estoque e gestão de clientes, tudo em um só lugar.",
+    "downloadPlayStore": "Baixar do Google Play",
+    "downloadAppStore": "Baixar da App Store",
+    "voiceFeature": "Adicionar vendas por comando de voz",
+    "voiceExample": "\"Dei 2 quilos de leite para Ramesh\"",
+    "voiceExplanation": "Leite (produto) será adicionado a Ramesh (cliente) na quantidade (2 quilos)"
+  },
+  "features": {
+    "title": "Tudo o Que Você Precisa para Expandir Seu Negócio",
+    "subtitle": "Ferramentas simples para ajudá-lo a gerenciar suas operações diárias",
+    "voice": {
+      "title": "Entrada de Vendas por Voz",
+      "description": "Pare de digitar, comece a falar. Apenas diga \"Dei 2 quilos de leite para Ramesh,\" e o SmartHawker registra instantaneamente a venda para você."
+    },
+    "invoice": {
+      "title": "Gerar e Enviar Faturas",
+      "description": "Crie faturas profissionais em segundos e envie-as diretamente para seus clientes no WhatsApp, garantindo que você seja pago mais rápido."
+    },
+    "credit": {
+      "title": "Livro-Razão de Crédito Digital",
+      "description": "Acompanhe facilmente todo o crédito do cliente em um local seguro."
+    },
+    "inventory": {
+      "title": "Gestão de Estoque Inteligente",
+      "description": "Sempre saiba o que está em estoque. O aplicativo atualiza automaticamente seu inventário a cada venda."
+    },
+    "reports": {
+      "title": "Relatórios de Negócios Diários",
+      "description": "Obtenha relatórios instantâneos e fáceis de ler sobre suas vendas diárias, lucros e pagamentos pendentes."
+    },
+    "multilingual": {
+      "title": "Suporte Multilíngue",
+      "description": "Administre seu negócio no idioma com o qual você se sente mais confortável. O aplicativo suporta inglês, hindi e muitos outros idiomas regionais."
+    }
+  },
+  "howItWorks": {
+    "title": "Comece em Apenas 3 Passos Fáceis",
+    "step1": "Baixe o Aplicativo",
+    "step2": "Registre Seu Negócio",
+    "step3": "Administre Sua Loja Digital e Ganhe Lucros"
+  },
+  "testimonials": {
+    "title": "Milhares de Vendedores Confiam em Nós",
+    "testimonial1": {
+      "name": "Ramesh Kumar",
+      "title": "Vendedor de Leite, Pune",
+      "quote": "O SmartHawker facilitou muito a cobrança de pagamentos. Economiza muito tempo e não há erros nas minhas contas."
+    },
+    "testimonial2": {
+      "name": "Sunita Devi",
+      "title": "Vendedora de Vegetais, Delhi",
+      "quote": "Agora sempre sei quanto de cada vegetal me resta. Isso reduziu significativamente minhas perdas."
+    }
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "q1": {
+      "question": "Este aplicativo é difícil de usar?",
+      "answer": "Não! Este aplicativo foi especialmente projetado para vendedores como você. É muito fácil de usar."
+    },
+    "q2": {
+      "question": "Quanto custa? Há taxas ocultas?",
+      "answer": "A maioria dos recursos essenciais do SmartHawker é completamente GRÁTIS. Também temos um plano Premium com recursos extras a um custo muito baixo. Não há taxas ocultas."
+    },
+    "q3": {
+      "question": "Os dados do meu negócio estão seguros neste aplicativo?",
+      "answer": "Sim, absolutamente. Todos os dados do seu negócio estão 100% seguros e não podem ser vistos por ninguém, exceto você."
+    }
+  },
+  "finalCTA": {
+    "title": "Então Por Que Esperar? Digitalize Seu Negócio Hoje!",
+    "subtitle": "Baixe o SmartHawker e leve seu negócio para o próximo nível.",
+    "downloadPlayStore": "Baixar do Google Play",
+    "downloadAppStore": "Baixar da App Store"
+  },
+  "footer": {
+    "tagline": "Seu Parceiro Comercial Digital",
+    "rights": "Todos os direitos reservados."
+  }
+}

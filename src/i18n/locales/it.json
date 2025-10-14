@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "downloadApp": "Scarica App"
+  },
+  "hero": {
+    "title": "SmartHawker: Porta la Tua Attività Online, Aumenta i Tuoi Profitti!",
+    "subtitle": "L'app più semplice per milioni di venditori ambulanti e piccoli negozianti indiani. Contabilità, gestione magazzino e gestione clienti, tutto in un unico posto.",
+    "downloadPlayStore": "Scarica da Google Play",
+    "downloadAppStore": "Scarica da App Store",
+    "voiceFeature": "Aggiungi vendite tramite comando vocale",
+    "voiceExample": "\"Ho dato 2 chili di latte a Ramesh\"",
+    "voiceExplanation": "Il latte (prodotto) verrà aggiunto a Ramesh (cliente) nella quantità (2 chili)"
+  },
+  "features": {
+    "title": "Tutto Ciò di Cui Hai Bisogno per Far Crescere la Tua Attività",
+    "subtitle": "Strumenti semplici per aiutarti a gestire le tue operazioni quotidiane",
+    "voice": {
+      "title": "Inserimento Vendite con Comando Vocale",
+      "description": "Smetti di digitare, inizia a parlare. Basta dire \"Ho dato 2 chili di latte a Ramesh,\" e SmartHawker registra istantaneamente la vendita per te."
+    },
+    "invoice": {
+      "title": "Genera e Invia Fatture",
+      "description": "Crea fatture professionali in pochi secondi e inviale direttamente ai tuoi clienti su WhatsApp, garantendoti pagamenti più rapidi."
+    },
+    "credit": {
+      "title": "Registro Crediti Digitale (Udhaar)",
+      "description": "Tieni traccia facilmente di tutti i crediti dei clienti in un unico luogo sicuro. Vedi chi ti deve denaro a colpo d'occhio e salda i conti con un solo tocco."
+    },
+    "inventory": {
+      "title": "Gestione Intelligente dell'Inventario",
+      "description": "Sappi sempre cosa c'è in magazzino. L'app aggiorna automaticamente il tuo inventario ad ogni vendita, aiutandoti a ridurre gli sprechi e sapere quando riordinare."
+    },
+    "reports": {
+      "title": "Report Aziendali Giornalieri",
+      "description": "Ottieni report istantanei e facili da leggere sulle tue vendite giornaliere, profitti e pagamenti in sospeso per comprendere le prestazioni della tua attività."
+    },
+    "multilingual": {
+      "title": "Supporto Multilingue",
+      "description": "Gestisci la tua attività nella lingua con cui ti senti più a tuo agio. L'app supporta inglese, hindi e molte altre lingue regionali."
+    }
+  },
+  "howItWorks": {
+    "title": "Inizia in Soli 3 Semplici Passaggi",
+    "step1": "Scarica l'App",
+    "step2": "Registra la Tua Attività",
+    "step3": "Gestisci il Tuo Negozio Digitale e Guadagna Profitti"
+  },
+  "testimonials": {
+    "title": "Migliaia di Venditori si Fidano di Noi",
+    "testimonial1": {
+      "name": "Ramesh Kumar",
+      "title": "Venditore di Latte, Pune",
+      "quote": "SmartHawker ha reso molto più facile la riscossione dei pagamenti. Mi fa risparmiare molto tempo e non ci sono errori nei miei conti."
+    },
+    "testimonial2": {
+      "name": "Sunita Devi",
+      "title": "Venditrice di Verdure, Delhi",
+      "quote": "Ora so sempre quanto di ogni verdura mi rimane. Questo ha ridotto significativamente le mie perdite."
+    }
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "q1": {
+      "question": "È difficile usare questa app?",
+      "answer": "No! Questa app è specificamente progettata per venditori come te. È molto facile da usare."
+    },
+    "q2": {
+      "question": "Quanto costa? Ci sono costi nascosti?",
+      "answer": "La maggior parte delle funzionalità essenziali di SmartHawker è completamente GRATUITA. Abbiamo anche un piano Premium con funzionalità extra a un costo molto basso. Non ci sono costi nascosti."
+    },
+    "q3": {
+      "question": "I dati della mia attività sono sicuri in questa app?",
+      "answer": "Sì, assolutamente. Tutti i dati della tua attività sono sicuri al 100% e non possono essere visti da nessuno tranne te."
+    }
+  },
+  "finalCTA": {
+    "title": "Allora Perché Aspettare? Rendi Digitale la Tua Attività Oggi!",
+    "subtitle": "Scarica SmartHawker e porta la tua attività al livello successivo.",
+    "downloadPlayStore": "Scarica da Google Play",
+    "downloadAppStore": "Scarica da App Store"
+  },
+  "footer": {
+    "tagline": "Il Tuo Partner Commerciale Digitale",
+    "rights": "Tutti i diritti riservati."
+  }
+}

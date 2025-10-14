@@ -16,9 +16,15 @@ const languages = [
   { code: "de", name: "Deutsch" },
   { code: "ta", name: "தமிழ்" },
   { code: "te", name: "తెలుగు" },
+  { code: "kn", name: "ಕನ್ನಡ" },
+  { code: "ml", name: "മലയാളം" },
   { code: "mr", name: "मराठी" },
   { code: "bn", name: "বাংলা" },
   { code: "gu", name: "ગુજરાતી" },
+  { code: "it", name: "Italiano" },
+  { code: "pl", name: "Polski" },
+  { code: "ru", name: "Русский" },
+  { code: "pt", name: "Português" },
 ];
 
 const LanguageSwitcher = () => {

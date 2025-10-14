@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "downloadApp": "Pobierz Aplikację"
+  },
+  "hero": {
+    "title": "SmartHawker: Przenieś Swój Biznes do Internetu, Zwiększ Swoje Zyski!",
+    "subtitle": "Najłatwiejsza aplikacja dla milionów indyjskich sprzedawców ulicznych i małych sklepikarzy. Księgowość, zarządzanie zapasami i zarządzanie klientami, wszystko w jednym miejscu.",
+    "downloadPlayStore": "Pobierz z Google Play",
+    "downloadAppStore": "Pobierz z App Store",
+    "voiceFeature": "Dodawaj sprzedaż poleceniem głosowym",
+    "voiceExample": "\"Dałem Rameshowi 2 kilo mleka\"",
+    "voiceExplanation": "Mleko (produkt) zostanie dodane do Ramesha (klienta) w ilości (2 kilo)"
+  },
+  "features": {
+    "title": "Wszystko, Czego Potrzebujesz, Aby Rozwijać Swój Biznes",
+    "subtitle": "Proste narzędzia do pomocy w zarządzaniu codziennymi operacjami",
+    "voice": {
+      "title": "Wprowadzanie Sprzedaży Głosem",
+      "description": "Przestań pisać, zacznij mówić. Po prostu powiedz \"Dałem Rameshowi 2 kilo mleka,\" a SmartHawker natychmiast zarejestruje sprzedaż za Ciebie."
+    },
+    "invoice": {
+      "title": "Generuj i Wysyłaj Faktury",
+      "description": "Twórz profesjonalne faktury w sekundach i wysyłaj je bezpośrednio do swoich klientów na WhatsApp, zapewniając szybszą płatność."
+    },
+    "credit": {
+      "title": "Cyfrowa Księga Kredytowa (Udhaar)",
+      "description": "Łatwo śledź cały kredyt klienta w jednym bezpiecznym miejscu. Zobacz na pierwszy rzut oka, kto jest Ci winien pieniądze i rozlicz konta jednym dotknięciem."
+    },
+    "inventory": {
+      "title": "Inteligentne Zarządzanie Zapasami",
+      "description": "Zawsze wiedz, co jest w magazynie. Aplikacja automatycznie aktualizuje Twoje zapasy z każdą sprzedażą, pomagając zmniejszyć straty i wiedzieć, kiedy ponownie zamówić."
+    },
+    "reports": {
+      "title": "Codzienne Raporty Biznesowe",
+      "description": "Uzyskaj natychmiastowe, łatwe do odczytania raporty o codziennej sprzedaży, zyskach i oczekujących płatnościach, aby zrozumieć wyniki swojego biznesu."
+    },
+    "multilingual": {
+      "title": "Wsparcie Wielojęzyczne",
+      "description": "Prowadź swój biznes w języku, w którym czujesz się najbardziej komfortowo. Aplikacja obsługuje angielski, hindi i wiele innych języków regionalnych."
+    }
+  },
+  "howItWorks": {
+    "title": "Zacznij w Zaledwie 3 Prostych Krokach",
+    "step1": "Pobierz Aplikację",
+    "step2": "Zarejestruj Swój Biznes",
+    "step3": "Prowadź Swój Cyfrowy Sklep i Zarabiaj"
+  },
+  "testimonials": {
+    "title": "Tysiące Sprzedawców Nam Ufa",
+    "testimonial1": {
+      "name": "Ramesh Kumar",
+      "title": "Sprzedawca Mleka, Pune",
+      "quote": "SmartHawker znacznie ułatwił zbieranie płatności. Oszczędza mi to dużo czasu i nie ma błędów w moich rachunkach."
+    },
+    "testimonial2": {
+      "name": "Sunita Devi",
+      "title": "Sprzedawczyni Warzyw, Delhi",
+      "quote": "Teraz zawsze wiem, ile każdego warzywa mi zostało. To znacznie zmniejszyło moje straty."
+    }
+  },
+  "faq": {
+    "title": "Często Zadawane Pytania",
+    "q1": {
+      "question": "Czy ta aplikacja jest trudna w użyciu?",
+      "answer": "Nie! Ta aplikacja jest specjalnie zaprojektowana dla sprzedawców takich jak Ty. Jest bardzo łatwa w użyciu."
+    },
+    "q2": {
+      "question": "Ile to kosztuje? Czy są jakieś ukryte opłaty?",
+      "answer": "Większość podstawowych funkcji SmartHawker jest całkowicie DARMOWA. Mamy również plan Premium z dodatkowymi funkcjami za bardzo niski koszt. Nie ma ukrytych opłat."
+    },
+    "q3": {
+      "question": "Czy moje dane biznesowe są bezpieczne w tej aplikacji?",
+      "answer": "Tak, absolutnie. Wszystkie Twoje dane biznesowe są w 100% bezpieczne i nikt oprócz Ciebie nie może ich zobaczyć."
+    }
+  },
+  "finalCTA": {
+    "title": "Więc Po Co Czekać? Uczyń Swój Biznes Cyfrowym Dziś!",
+    "subtitle": "Pobierz SmartHawker i przenieś swój biznes na wyższy poziom.",
+    "downloadPlayStore": "Pobierz z Google Play",
+    "downloadAppStore": "Pobierz z App Store"
+  },
+  "footer": {
+    "tagline": "Twój Cyfrowy Partner Biznesowy",
+    "rights": "Wszelkie prawa zastrzeżone."
+  }
+}
