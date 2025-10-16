@@ -3,7 +3,7 @@
     "downloadApp": "Télécharger l'App"
   },
   "hero": {
-    "title": "SmartHawker: Mettez Votre Entreprise en Ligne, Augmentez Vos Profits!",
+    "title": "Smart Hawker: Mettez Votre Entreprise en Ligne, Augmentez Vos Profits!",
     "subtitle": "L'application la plus facile pour des millions de vendeurs ambulants et petits commerçants indiens. Comptabilité, gestion des stocks et gestion de la clientèle, tout en un seul endroit.",
     "downloadPlayStore": "Télécharger sur Google Play",
     "downloadAppStore": "Télécharger sur l'App Store",
@@ -13,10 +13,10 @@
   },
   "features": {
     "title": "Gérer Votre Entreprise Devient Facile",
-    "subtitle": "Gérez votre entreprise efficacement avec SmartHawker",
+    "subtitle": "Gérez votre entreprise efficacement avec Smart Hawker",
     "voice": {
       "title": "Saisie de Ventes Vocale",
-      "description": "Arrêtez de taper, commencez à parler. Dites simplement \"J'ai donné 2 kilos de lait à Ramesh,\" et SmartHawker enregistre instantanément la vente pour vous."
+      "description": "Arrêtez de taper, commencez à parler. Dites simplement \"J'ai donné 2 kilos de lait à Ramesh,\" et Smart Hawker enregistre instantanément la vente pour vous."
     },
     "invoice": {
       "title": "Générer et Envoyer des Factures",
@@ -50,7 +50,7 @@
     "testimonial1": {
       "name": "Ramesh Kumar",
       "title": "Vendeur de Lait, Pune",
-      "quote": "SmartHawker a rendu la collecte des paiements beaucoup plus facile. Cela me fait gagner beaucoup de temps et il n'y a pas d'erreurs dans mes comptes."
+      "quote": "Smart Hawker a rendu la collecte des paiements beaucoup plus facile. Cela me fait gagner beaucoup de temps et il n'y a pas d'erreurs dans mes comptes."
     },
     "testimonial2": {
       "name": "Sunita Devi",
@@ -66,7 +66,7 @@
     },
     "q2": {
       "question": "Quel est le coût? Y a-t-il des frais cachés?",
-      "answer": "La plupart des fonctionnalités essentielles de SmartHawker sont entièrement GRATUITES. Nous avons également un plan Premium avec des fonctionnalités supplémentaires à un coût très bas. Il n'y a pas de frais cachés."
+      "answer": "La plupart des fonctionnalités essentielles de Smart Hawker sont entièrement GRATUITES. Nous avons également un plan Premium avec des fonctionnalités supplémentaires à un coût très bas. Il n'y a pas de frais cachés."
     },
     "q3": {
       "question": "Les données de mon entreprise sont-elles sécurisées dans cette application?",
@@ -75,7 +75,7 @@
   },
   "finalCTA": {
     "title": "Alors Pourquoi Attendre? Numérisez Votre Entreprise Aujourd'hui!",
-    "subtitle": "Téléchargez SmartHawker et amenez votre entreprise au niveau supérieur.",
+    "subtitle": "Téléchargez Smart Hawker et amenez votre entreprise au niveau supérieur.",
     "downloadPlayStore": "Télécharger sur Google Play",
     "downloadAppStore": "Télécharger sur l'App Store"
   },

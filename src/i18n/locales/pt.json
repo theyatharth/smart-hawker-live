@@ -3,7 +3,7 @@
     "downloadApp": "Baixar App"
   },
   "hero": {
-    "title": "SmartHawker: Leve Seu Negócio para o Online, Aumente Seus Lucros!",
+    "title": "Smart Hawker: Leve Seu Negócio para o Online, Aumente Seus Lucros!",
     "subtitle": "O aplicativo mais fácil para milhões de vendedores ambulantes e pequenos lojistas indianos. Contabilidade, gestão de estoque e gestão de clientes, tudo em um só lugar.",
     "downloadPlayStore": "Baixar do Google Play",
     "downloadAppStore": "Baixar da App Store",
@@ -16,7 +16,7 @@
     "subtitle": "Ferramentas simples para ajudá-lo a gerenciar suas operações diárias",
     "voice": {
       "title": "Entrada de Vendas por Voz",
-      "description": "Pare de digitar, comece a falar. Apenas diga \"Dei 2 quilos de leite para Ramesh,\" e o SmartHawker registra instantaneamente a venda para você."
+      "description": "Pare de digitar, comece a falar. Apenas diga \"Dei 2 quilos de leite para Ramesh,\" e o Smart Hawker registra instantaneamente a venda para você."
     },
     "invoice": {
       "title": "Gerar e Enviar Faturas",
@@ -50,7 +50,7 @@
     "testimonial1": {
       "name": "Ramesh Kumar",
       "title": "Vendedor de Leite, Pune",
-      "quote": "O SmartHawker facilitou muito a cobrança de pagamentos. Economiza muito tempo e não há erros nas minhas contas."
+      "quote": "O Smart Hawker facilitou muito a cobrança de pagamentos. Economiza muito tempo e não há erros nas minhas contas."
     },
     "testimonial2": {
       "name": "Sunita Devi",
@@ -66,7 +66,7 @@
     },
     "q2": {
       "question": "Quanto custa? Há taxas ocultas?",
-      "answer": "A maioria dos recursos essenciais do SmartHawker é completamente GRÁTIS. Também temos um plano Premium com recursos extras a um custo muito baixo. Não há taxas ocultas."
+      "answer": "A maioria dos recursos essenciais do Smart Hawker é completamente GRÁTIS. Também temos um plano Premium com recursos extras a um custo muito baixo. Não há taxas ocultas."
     },
     "q3": {
       "question": "Os dados do meu negócio estão seguros neste aplicativo?",
@@ -75,7 +75,7 @@
   },
   "finalCTA": {
     "title": "Então Por Que Esperar? Digitalize Seu Negócio Hoje!",
-    "subtitle": "Baixe o SmartHawker e leve seu negócio para o próximo nível.",
+    "subtitle": "Baixe o Smart Hawker e leve seu negócio para o próximo nível.",
     "downloadPlayStore": "Baixar do Google Play",
     "downloadAppStore": "Baixar da App Store"
   },
